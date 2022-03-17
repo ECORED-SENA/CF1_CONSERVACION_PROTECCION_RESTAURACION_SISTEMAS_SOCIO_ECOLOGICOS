@@ -1,0 +1,1 @@
+module.exports = 'Sistemas socioecológicos.'
