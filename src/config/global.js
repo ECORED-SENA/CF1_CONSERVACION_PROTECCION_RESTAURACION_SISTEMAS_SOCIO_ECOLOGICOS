@@ -91,139 +91,66 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'García-Frapolli, E. y Toledo, V. (2008). Evaluación de sistemas socioecológicos en áreas protegidas: un instrumento desde la economía ecológica. Argumentos, 21(56), p. 103-116',
+      link: 'http://www.scielo.org.mx/pdf/argu/v21n56/v21n56a6.pdf',
+    },
+    {
+      referencia:
+        'Khan Academy. (2017). Introducción a los ciclos biogeoquímicos.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://es.khanacademy.org/science/biology/ecology/biogeochemical-cycles/a/introduction-to-biogeochemical-cycles',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Salas-Zapata, W., Ríos-Osorio, L. y Álvarez-Del Castillo, J. (2011). Bases conceptuales para una clasificación de los sistemas socioecológicos de la investigación en sostenibilidad. Revista Lasallista de Investigación, 8(2).',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1794-44492011000200015',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Universidad de Guadalajara. (s. f.). Clasificación general de las fuentes de información. Biblioteca Virtual del Sistema de Universidad Virtual.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'http://biblioteca.udgvirtual.udg.mx/portal/clasificacion-general-de-las-fuentes-de-informacion',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Componentes ambientales',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Son todos los elementos, factores o recursos naturales que presentan interacciones entre sí, lo cual permite que se genere la vida en nuestro planeta.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Factores bióticos',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Son todos aquellos organismos que tienen vida, como los animales, las plantas o los microorganismos.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Factores abióticos',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Son aquellos que no tienen vida, pero, de igual manera, son de vital importancia para el desarrollo de los ecosistemas y de los seres vivos.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Leyes ambientales',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Corresponden a los principios y normas que buscan la protección, conservación, recuperación del medio ambiente y preservación de los recursos naturales. ',
     },
     {
-      termino: 'Moda',
+      termino: 'Resolución ambiental',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Son todos los lineamientos que la autoridad requiere para la elaboración y ejecución de los estudios ambientales que deben ser presentados ante las autoridades.',
     },
   ],
   complementario: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+      texto: 'Bejarano, L. (2018). Componentes Ambientales',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=_jl2o3uk5P8',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+        'Correa, E. (2021). Introducción a la Normatividad Ambiental en Colombia',
       tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
+      link: 'https://www.youtube.com/watch?v=XPeC4Fw_T10',
     },
   ],
   creditos: {
@@ -236,10 +163,30 @@ export default {
     ],
     contenidoInstruccional: [
       {
+        nombre: 'Víctor Julián Ardila',
+        cargo: 'Experto temático',
+        centro: 'Regional Tolima - Centro Agropecuario La Granja ',
+      },
+      {
+        nombre: 'Beatriz Eugenia Agudelo Vásquez',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Regional Distrito Capital - Centro de Gestión Industrial ',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor metodológico y pedagógico ',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
+      {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Darío González',
+        cargo: 'Corrección de estilo',
+        centro: 'Regional Tolima - Centro Agropecuario La Granja',
       },
     ],
     desarrolloProducto: [
@@ -255,25 +202,48 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: ['Anllelo Andrés Reina Montanez'],
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jorge Enrique Haylock Calderín',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Enrique Diaz',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

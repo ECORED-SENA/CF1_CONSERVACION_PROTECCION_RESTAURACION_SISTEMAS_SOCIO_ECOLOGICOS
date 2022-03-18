@@ -43,9 +43,7 @@
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/componentes/tema2/imagen2.svg')
-          //- .tarjeta debe ir acompañado de una de una de estas clases => 
-          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-          //- estas clases tambien tienen un modificador --borde
+
           .tarjeta.fondotarjetaavatar
             .p-4
               h2 Adaptabilidad:
@@ -53,7 +51,6 @@
     p.my-5 En términos generales, todos los sistemas son susceptibles a ser asumidos como si fueran un sistema socioecológico, siempre y cuando las interacciones entre la sociedad y los ecosistemas estén previamente delimitadas. 
 
     p.mb-5 Es por ello que estos sistemas se pueden clasificar de acuerdo con la posibilidad de fabricarlos y controlarlos, encontrando:
-
 
     .tarjeta.fondo4.p-4.mb-5
       SlyderA
