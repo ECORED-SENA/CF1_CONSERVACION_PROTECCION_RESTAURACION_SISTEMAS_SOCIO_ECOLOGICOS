@@ -81,7 +81,7 @@
               img(src='@/assets/template/tema2/slider3.svg')
 
     .row
-      .col-lg-4.col-md-5
+      .col-lg-4.col-md-5.correr-izq
         p.text-center.text-white.mb-0.fondo3.p-4.text-bold Servicios ecosistémicos
 
     p.my-5 Los servicios ecosistémicos son todos aquellos beneficios que un ecosistema puede aportar a una sociedad y que pueden o pretenden una mejoría en la economía, la calidad de vida y la salud de las personas. Estos servicios son el resultado del funcionamiento propio de los ecosistemas. 

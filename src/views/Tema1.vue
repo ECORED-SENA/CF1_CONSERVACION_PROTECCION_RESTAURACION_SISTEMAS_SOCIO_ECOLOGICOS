@@ -30,7 +30,7 @@
             img(src='@/assets/curso/tema1/figura1.png')
         p.my-5 Conozca un poco sobre el primer grupo, los aspectos físicos y biológicos, que se encuentra subdividido en:
         .row
-          .col-lg-4.col-md-5
+          .col-lg-4.col-md-5.correr-izq
             p.text-center.text-white.mb-0.fondo3.p-4.text-bold Factores bióticos:
         p.my-5 Son todos aquellos organismos que tienen vida, como los animales, las plantas o los microorganismos, y que influyen directamente en la forma de algún ecosistema, sea de manera positiva o negativa, por medio de la interacción entre ellos. Algunas de sus principales características se pueden identificar así: 
     img.p-2(src='@/assets/curso/tema1/figura2.png')
@@ -59,7 +59,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
     .row
-      .col-lg-4.col-md-5
+      .col-lg-4.col-md-5.correr-izq
         p.text-center.text-white.mb-0.fondo3.p-4.text-bold Factores abióticos:
     p.my-5 Son aquellos que no tienen vida, pero de igual manera son de vital importancia para el desarrollo de los ecosistemas y de los seres vivos. Estos factores afectan la capacidad que tienen los seres vivos para sobrevivir y reproducirse. 
 
@@ -93,7 +93,7 @@
 
     p.my-5 Dentro del segundo grupo, se pueden encontrar los factores socioculturales: 
     .row
-      .col-lg-4.col-md-5.my-5
+      .col-lg-4.col-md-5.my-5.correr-izq
         p.text-center.text-white.mb-0.fondo3.p-4.text-bold Factores socioculturales: 
     img.mb-5(src='@/assets/curso/tema1/grupo.png')
 
@@ -106,7 +106,7 @@
     p.my-5 De igual forma, se encuentra que los elementos y compuestos inorgánicos forman parte de la materia viva y fluyen en el ecosistema a través de los ciclos biogeoquímicos.
 
     .row
-      .col-lg-4.col-md-5.my-5
+      .col-lg-4.col-md-5.my-5.correr-izq
         p.text-center.text-white.mb-0.fondo3.p-4.text-bold Ciclos biogeoquímicos: 
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")

@@ -254,7 +254,7 @@
               tr
                 td Resolución 1023 de 2005.
                 td Se adoptan guías ambientales que serán utilizadas como medidas de autogestión.
-
+    separador
 </template>
 <script>
 import BannerInterno from '../components/BannerInterno.vue'
