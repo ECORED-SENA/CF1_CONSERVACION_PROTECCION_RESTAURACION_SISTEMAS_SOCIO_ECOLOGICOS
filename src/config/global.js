@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Sistemas socioecológicos.',
     descripcionCurso:
-      'En este componente formativo, se abordan temas que le permitirán entender cómo está compuesto un sistema socioecológico, sus interacciones y la forma de analizarlo y documentarlo, para una oportuna toma de decisiones que permitan su conservación, protección y restauración.',
+      '<p style="margin-bottom: 100px;">En este componente formativo, se abordan temas que le permitirán entender cómo está compuesto un sistema socioecológico, sus interacciones y la forma de analizarlo y documentarlo, para una oportuna toma de decisiones que permitan su conservación, protección y restauración.</p>',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
     fondoBannerInterno: require('@/assets/curso/fondo-banner-interno.png'),
@@ -226,18 +226,6 @@ export default {
       },
       {
         nombre: 'Gilberto Junior Rodriguez Rodriguez',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Camilo Andrés Bolaño Rey ',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Enrique Diaz',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

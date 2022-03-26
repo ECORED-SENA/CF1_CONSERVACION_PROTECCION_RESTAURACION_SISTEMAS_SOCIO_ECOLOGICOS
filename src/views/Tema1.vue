@@ -43,12 +43,12 @@
           img(src='@/assets/template/tema1/figura1.jpg')
 
       .tarjeta.fondotarjeta.p-3(x="30%" y="9%" numero="+")
-        span.text-bold Individuos: 
-        | son organismos unitarios, que presentan una estructura independiente, la cual puede ser unicelular o pluricelular, y además no tienen la necesidad de otro ser vivo para poder sobrevivir en algún ecosistema. 
+        span.text-bold Población:  
+        | esto hace referencia a un grupo de individuos de una misma especie, que comparten el mismo espacio y el mismo tiempo, por lo tanto, presentan diversas relaciones entre ellos, por ejemplo, de alimentación o de reproducción.
 
       .tarjeta.fondotarjeta.p-3(x="19%" y="45%" numero="+")
-        span.text-bold Población:  
-        | esto hace referencia a un grupo de individuos de una misma especie, que comparten el mismo espacio y el mismo tiempo, por lo tanto, presentan diversas relaciones entre ellos, por ejemplo, de alimentación o de reproducción. 
+        span.text-bold Individuos: 
+        | son organismos unitarios, que presentan una estructura independiente, la cual puede ser unicelular o pluricelular, y además no tienen la necesidad de otro ser vivo para poder sobrevivir en algún ecosistema. 
 
       .tarjeta.fondotarjeta.p-3(x="59.5%" y="55%" numero="+")
         span.text-bold Comunidad: 
@@ -64,42 +64,43 @@
     p.my-5 Son aquellos que no tienen vida, pero de igual manera son de vital importancia para el desarrollo de los ecosistemas y de los seres vivos. Estos factores afectan la capacidad que tienen los seres vivos para sobrevivir y reproducirse. 
 
     p.mb-5 Los factores abióticos se pueden dividir en dos categorías: físicos y químicos. La siguiente infografía le ayudará a comprender el tema:
+    .row.fondo7
+      .col-12
+        ImagenInfografica.color-secundario.mb-5.mt-2
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/template/tema1/figura2.jpg')
 
-    ImagenInfografica.color-secundario.mb-5
-      template(v-slot:imagen)
-        figure
-          img(src='@/assets/template/tema1/figura2.jpg')
+          .tarjeta.fondotarjeta.p-3(x="67%" y="7%" numero="1")
+            span.text-bold Luz solar: 
+            | esta luz es la principal fuente de energía en el planeta Tierra, tanto para las plantas como para los animales, entre ellos el ser humano, ya que las ondas emitidas por el sol influyen en la temperatura de los mares, del aire y de la tierra.  
 
-      .tarjeta.fondotarjeta.p-3(x="67%" y="7%" numero="1")
-        span.text-bold Luz solar: 
-        | esta luz es la principal fuente de energía en el planeta Tierra, tanto para las plantas como para los animales, entre ellos el ser humano, ya que las ondas emitidas por el sol influyen en la temperatura de los mares, del aire y de la tierra.  
+          .tarjeta.fondotarjeta.p-3(x="79%" y="32%" numero="2")
+            span.text-bold Temperatura:   
+            | la temperatura, sin importar cual sea su nivel, incide en la generación de vida y en las relaciones entre diferentes organismos.  
 
-      .tarjeta.fondotarjeta.p-3(x="79%" y="32%" numero="2")
-        span.text-bold Temperatura:   
-        | la temperatura, sin importar cual sea su nivel, incide en la generación de vida y en las relaciones entre diferentes organismos.  
+          .tarjeta.fondotarjeta.p-3(x="66%" y="44%" numero="3")
+            span.text-bold Presión atmosférica:  
+            | Los diferentes cambios de presión que ejerce la atmósfera sobre la tierra son un factor fundamental para el desarrollo de los elementos que componen cualquier ecosistema.  
+          .tarjeta.fondotarjeta.p-3(x="54%" y="30%" numero="4")
+            span.text-bold Clima: 
+            | la región climática donde se encuentre cada ecosistema influye totalmente en sus características y en el tipo de organismos que allí habitan. 
+          .tarjeta.fondotarjeta.p-3(x="57%" y="66%" numero="5")
+            span.text-bold pH: 
+            | este factor es determinante para la generación de vida, ya que afecta las propiedades químicas tanto del agua como del suelo, lo cual le otorga características particulares a cada ecosistema. 
+          .tarjeta.fondotarjeta.p-3(x="25%" y="75%" numero="6")
+            span.text-bold Química del aire y del suelo: 
+            | hace referencia a los diferentes compuestos químicos que están disueltos tanto en el suelo como en el aire y que proporcionan los niveles de oxígeno necesarios para la sustentabilidad de los ecosistemas.
 
-      .tarjeta.fondotarjeta.p-3(x="66%" y="44%" numero="3")
-        span.text-bold Presión atmosférica:  
-        | que ejerce la atmósfera sobre la tierra son un factor fundamental para el desarrollo de los elementos que componen cualquier ecosistema.  
-      .tarjeta.fondotarjeta.p-3(x="54%" y="30%" numero="4")
-        span.text-bold Clima: 
-        | la región climática donde se encuentre cada ecosistema influye totalmente en sus características y en el tipo de organismos que allí habitan. 
-      .tarjeta.fondotarjeta.p-3(x="57%" y="66%" numero="5")
-        span.text-bold pH: 
-        | este factor es determinante para la generación de vida, ya que afecta las propiedades químicas tanto del agua como del suelo, lo cual le otorga características particulares a cada ecosistema. 
-      .tarjeta.fondotarjeta.p-3(x="25%" y="75%" numero="6")
-        span.text-bold Química del aire y del suelo: 
-        | hace referencia a los diferentes compuestos químicos que están disueltos tanto en el suelo como en el aire y que proporcionan los niveles de oxígeno necesarios para la sustentabilidad de los ecosistemas.
-
-    p.my-5 Dentro del segundo grupo, se pueden encontrar los factores socioculturales: 
-    .row
-      .col-lg-4.col-md-5.my-5.correr-izq
-        p.text-center.text-white.mb-0.fondo3.p-4.text-bold Factores socioculturales: 
+        p.my-5 Dentro del segundo grupo, se pueden encontrar los factores socioculturales: 
+        .row.bajar
+          .col-lg-4.col-md-5.my-5.correr-izq
+            p.text-center.text-white.mb-0.fondo3.p-4.text-bold Factores socioculturales: 
     img.mb-5(src='@/assets/curso/tema1/grupo.png')
 
     .row.justify-content-center
       .col-10
-        .cajon.color-primario.p-4.mb-4
+        .cajon.fondocajon.p-4.mb-4
           p Los factores socioculturales son el conjunto tanto de factores internos, como lo son las creencias y las habilidades personales, como de factores externos, como el efecto de la educación dentro de la sociedad. 
 
           p Es necesario, entonces, primero entender cada factor por separado. En primer lugar, los factores sociales son aquellos que influyen en las actitudes, los valores y el estilo de vida de cada persona, y cuando se habla de ellos se hace referencia a las clases sociales, los comportamientos y las creencias arraigadas en cada comunidad. En segundo lugar, cuando se hace referencia a un factor sociocultural, se entiende como la relación que se presenta entre las comunidades y sus entornos, teniendo en cuenta aspectos económicos, culturales, sociales, históricos y políticos.
@@ -108,7 +109,7 @@
     .row
       .col-lg-4.col-md-5.my-5.correr-izq
         p.text-center.text-white.mb-0.fondo3.p-4.text-bold Ciclos biogeoquímicos: 
-
+    p.my-5 Los ciclos biogeoquímicos son básicamente procesos naturales que se generan por el reciclaje de elementos en formas químicas que están presentes en el medio ambiente y fluyen hacia los organismos y de manera contraria. Algunos de estos ciclos son los del: agua, carbono, oxígeno, nitrógeno, fósforo, entre otros. 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-secundario.p-4
         .row.justify-content-center.mb-3
@@ -149,7 +150,7 @@
           //- .tarjeta debe ir acompañado de una de una de estas clases => 
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
-          .tarjeta.slider-color-primario
+          .tarjeta.fondocajon
             .p-4
               h2.text-center Biótica
               p.text-center Es aquella que comprende los organismos vivos que adquieren elementos inorgánicos y, posteriormente, al momento de morir, se descomponen, y estos elementos regresan al medio ambiente y son aprovechados por otros organismos.
@@ -160,7 +161,7 @@
           //- .tarjeta debe ir acompañado de una de una de estas clases => 
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
-          .tarjeta.slider-color-primario
+          .tarjeta.fondocajon
             .p-4
               h2.text-center Abiótica
               p.text-center Son todas las sustancias inorgánicas que se descomponen lentamente y están disponibles para cualquier organismo de forma constante y abundante, como lo es el agua, el carbono y el oxígeno. 

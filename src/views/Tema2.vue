@@ -7,17 +7,19 @@
       .titulo-principal__numero
         span 2
       h1 Sistemas socioecológicos
+    .row.justify-content-center.my-5
+      .col-lg-6.col-md-12.col-sm-12.m-0
+
     .row.justify-content-center
       .col-12.fondotema1
         .row.justify-content-center.my-5
           .col-lg-6.col-md-12.col-sm-12
             img(src='@/assets/curso/tema2/imagen1.png')
           .col-lg-6.col-md-12.col-sm-12.m-0
-            .row
-              .col-12.m-0.p-0
-                .cajon-b.color-acento-botones.p-3.mb-5
-                  p.mb-0 Los sistemas socioecológicos son básicamente la interacción entre los sistemas sociales y los sistemas ecológicos, donde, por una parte, se encuentran todas las actividades e intervenciones de índole cultural, político, social y económico, que generan afectaciones positivas o negativas en el medio ambiente y en la naturaleza. Por otra parte, los ecosistemas y sus diferentes dinámicas tienen una amplia influencia en las culturas humanas, al igual que las actividades económicas que se desarrollan en cada ecosistema. 
-              .cajon.color-primario.p-4.mb-4
+            .row.justify-content-center
+              .col-lg-12.col-md-12.p-4.fondo8.correr-izq
+                p.mb-3 Los sistemas socioecológicos son básicamente la interacción entre los sistemas sociales y los sistemas ecológicos, donde, por una parte, se encuentran todas las actividades e intervenciones de índole cultural, político, social y económico, que generan afectaciones positivas o negativas en el medio ambiente y en la naturaleza. Por otra parte, los ecosistemas y sus diferentes dinámicas tienen una amplia influencia en las culturas humanas, al igual que las actividades económicas que se desarrollan en cada ecosistema.
+              .cajon.color-secundario.p-4.mb-4
                 p Los sistemas socioecológicos cuentan con una gran capacidad de adaptación, ya que las actividades humanas se ajustan a las características específicas de cada ecosistema; es por esto que la sustentabilidad de algún sistema es sinónimo de la resiliencia que se prolonga para satisfacer las necesidades del ser humano.
         .titulo-sexto.color-acento-contenido
           h5 Figura 1
@@ -37,7 +39,7 @@
           .tarjeta.fondotarjetaavatar
             .p-4
               h2 Resiliencia:
-              p es la capacidad que tienen los sistemas de mantenerse en el tiempo a pesar de los cambios ambientales que se presenten; para esto, son necesarios procesos de transformación, de renovación y, más importante aún, la evolución continua. Es así que la resiliencia se puede entender como la capacidad de mantener en funcionamiento los diferentes aspectos que comprende el sistema.
+              p Es la capacidad que tienen los sistemas de mantenerse en el tiempo a pesar de los cambios ambientales que se presenten; para esto, son necesarios procesos de transformación, de renovación y, más importante aún, la evolución continua. Es así que la resiliencia se puede entender como la capacidad de mantener en funcionamiento los diferentes aspectos que comprende el sistema.
 
       .col-lg-10.ms-5
         .tarjeta-avatar-b.mb-5
@@ -47,7 +49,7 @@
           .tarjeta.fondotarjetaavatar
             .p-4
               h2 Adaptabilidad:
-              p es la capacidad que tienen los sistemas socioecológicos para adaptarse a nuevas condiciones, bien sean cambios climáticos o de usos de suelo, o cambios en los aspectos sociales, económicos o culturales que se presenten dentro del funcionamiento de los mismos. 
+              p Es la capacidad que tienen los sistemas socioecológicos para adaptarse a nuevas condiciones, bien sean cambios climáticos o de usos de suelo, o cambios en los aspectos sociales, económicos o culturales que se presenten dentro del funcionamiento de los mismos. 
     p.my-5 En términos generales, todos los sistemas son susceptibles a ser asumidos como si fueran un sistema socioecológico, siempre y cuando las interacciones entre la sociedad y los ecosistemas estén previamente delimitadas. 
 
     p.mb-5 Es por ello que estos sistemas se pueden clasificar de acuerdo con la posibilidad de fabricarlos y controlarlos, encontrando:

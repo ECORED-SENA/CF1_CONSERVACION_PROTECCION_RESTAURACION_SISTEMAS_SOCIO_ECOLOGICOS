@@ -10,7 +10,7 @@
       .col-12.fondotema1
         img(src='@/assets/curso/tema3/faunaflora.png')
         .cajon-b.color-primario.p-3.mb-5
-          p.mb-0 Los sistemas socioecológicos son básicamente la interacción entre los sistemas sociales y los sistemas ecológicos, donde, por una parte, se encuentran todas las actividades e intervenciones de índole cultural, político, social y económico, que generan afectaciones positivas o negativas en el medio ambiente y en la naturaleza. Por otra parte, los ecosistemas y sus diferentes dinámicas tienen una amplia influencia en las culturas humanas, al igual que las actividades económicas que se desarrollan en cada ecosistema.
+          p.mb-0 Colombia esta catalogado como el segundo país más megadiverso, debido a la variedad de ecosistemas que acá se encuentran, además de las cantidades de especies y recursos naturales. Es por esto que es primordial que se asegure la conservación y preservación de estos preciados recursos, por medio de normativas ambientales, las cuales se clasifican a continuación:
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1
           br
