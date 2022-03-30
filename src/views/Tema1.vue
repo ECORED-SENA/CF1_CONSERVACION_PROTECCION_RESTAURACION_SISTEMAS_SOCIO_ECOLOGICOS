@@ -33,7 +33,7 @@
           .col-lg-4.col-md-5.correr-izq
             p.text-center.text-white.mb-0.fondo3.p-4.text-bold Factores bióticos:
         p.my-5 Son todos aquellos organismos que tienen vida, como los animales, las plantas o los microorganismos, y que influyen directamente en la forma de algún ecosistema, sea de manera positiva o negativa, por medio de la interacción entre ellos. Algunas de sus principales características se pueden identificar así: 
-    img.p-2(src='@/assets/curso/tema1/figura2.png')
+    img.p-2(src='@/assets/curso/tema1/figura2.svg')
     p.my-5 Ahora, los factores bióticos se pueden clasificar en dos formas, principalmente: según su organización ecológica o según cómo estén posicionados dentro de la cadena alimentaria o cadena trófica. 
     p.mb-5 En la primera parte, se tendrán en cuenta los factores según su organización ecológica, los cuales presentan tres diferentes grupos, descritos a continuación: 
 
