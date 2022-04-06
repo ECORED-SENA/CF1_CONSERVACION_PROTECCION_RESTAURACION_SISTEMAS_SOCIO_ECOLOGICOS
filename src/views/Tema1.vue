@@ -9,25 +9,16 @@
       h1 Componentes ambientales
     .row.justify-content-center
       .col-12.fondotema1
-
-
-        //--.bloque-texto-g.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema1/imagen1.png')})`}"
-          )
-          .bloque-texto-g__texto.p-4.fondo2
-            p.mb-0.ms-5.ps-5 Los componentes ambientales son todos los elementos, factores o recursos naturales que presentan interacciones entre sí, lo cual permite que se genere la vida en nuestro planeta. Estos componentes tienen una vital influencia en el medio ambiente y, por ende, en cada uno de los seres vivos. Existen dos grandes grupos, tal como se observa en la siguiente figura:
-        //-img.mover(src='@/assets/curso/tema1/imagen1.png') 
         .row.align-items-center.justify-content-end.me-3.mt-5  
           .col-lg-10.col-md-11.col-sm-11.fondo2
             p.p-4.margenParrafo Los componentes ambientales son todos los elementos, factores o recursos naturales que presentan interacciones entre sí, lo cual permite que se genere la vida en nuestro planeta. Estos componentes tienen una vital influencia en el medio ambiente y, por ende, en cada uno de los seres vivos. Existen dos grandes grupos, tal como se observa en la siguiente figura:
         .row.align-items-center.justify-content-start
           .col-lg-5.col-md-1.col-sm-1
-            img.subir(src='@/assets/curso/tema1/imagen1.png') 
+            img.subir.celular(src='@/assets/curso/tema1/imagen1.png') 
 
         .row.justify-content-center.mt-5
           .col-10
-            img(src='@/assets/curso/tema1/figura1.png')
+            img(src='@/assets/curso/tema1/figura1.svg')
         p.my-5 Conozca un poco sobre el primer grupo, los aspectos físicos y biológicos, que se encuentra subdividido en:
         .row
           .col-lg-4.col-md-5.correr-izq
@@ -147,9 +138,6 @@
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/componentes/tema1/arboles.svg' alt='Árboles')
-          //- .tarjeta debe ir acompañado de una de una de estas clases => 
-          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-          //- estas clases tambien tienen un modificador --borde
           .tarjeta.fondocajon
             .p-4
               h2.text-center Biótica
@@ -158,9 +146,6 @@
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/componentes/tema1/rio.svg' alt='Río')
-          //- .tarjeta debe ir acompañado de una de una de estas clases => 
-          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-          //- estas clases tambien tienen un modificador --borde
           .tarjeta.fondocajon
             .p-4
               h2.text-center Abiótica

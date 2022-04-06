@@ -117,7 +117,7 @@
         .row.justify-content-start.fondo5.align-items-center
           .col-lg-3.col-md-10.col-sm-10
             img(src='@/assets/curso/tema3/imagen1.png') 
-          .col-lg-6.col-md-10.col-sm-10
+          .col-lg-6.col-md-10.col-sm-10.mb-2
             span.text-white.text-bold Tratados internacionales: 
             span.text-white son acuerdos entre dos o más países que quedan por escrito, están regulados por las normas del derecho internacional. Algunos de los tratados internacionales establecidos en Colombia son:
 
@@ -146,7 +146,7 @@
                 td Ratificado por Colombia por medio de la Ley 30 de 1990.
 
         .row.justify-content-end.fondo6.align-items-center
-          .col-lg-6.col-md-10.col-sm-10
+          .col-lg-6.col-md-10.col-sm-10.mt-3
             span.text-bold Leyes ambientales: 
             | corresponden a los principios y normas que buscan la protección, conservación, recuperación del medio ambiente y preservación de los recursos naturales. 
           .col-lg-3.col-md-10.col-sm-10
@@ -183,7 +183,7 @@
     .row.justify-content-start.fondo5.align-items-center
       .col-lg-3.col-md-10.col-sm-10
         img(src='@/assets/curso/tema3/imagen3.png') 
-      .col-lg-6.col-md-10.col-sm-10
+      .col-lg-6.col-md-10.col-sm-10.mb-3
         span.text-white.text-bold Decretos ambientales: 
         span.text-white tienen como propósito velar por la recuperación, conservación, protección, manejo, uso y aprovechamiento de los recursos naturales renovables de la nación. Destina como un servicio público la salud y el saneamiento ambiental.
 
@@ -214,7 +214,7 @@
                 td Hidrocarburos.
 
     .row.justify-content-end.fondo6.align-items-center
-      .col-lg-6.col-md-10.col-sm-10
+      .col-lg-6.col-md-10.col-sm-10.mt-2
         span.text-bold Resoluciones ambientales: 
         | son todos los lineamientos que la autoridad requiere para la elaboración y ejecución de los estudios ambientales que deben ser presentados ante las autoridades. 
       .col-lg-3.col-md-10.col-sm-10

@@ -117,12 +117,25 @@
   transition: opacity 0.3s ease-in-out, box-shadow 0.3s ease-in-out
   border: 1px solid #D8ECFF
 
-//.cajon-b:before
-//  content: ''
-//  display: block
-//  position: absolute
-//  opacity: .35
-//  top: 0
-//  left: 0
-//  right: 34% !important
-//  bottom: 73% !important
+.banner-principal p
+  margin-bottom: 100px !important
+
+@media (max-width: 2500px)
+  .margenParrafo
+    margin-left: 25%
+  .texto-peq
+    font-size: 1em
+    margin-bottom: 1em
+
+@media (max-width: 992px)
+  .celular
+    display: none
+  .margenParrafo
+    margin-left: 0
+  .texto-peq
+    font-size: 0.7em
+
+@media (max-width: 576px)
+  .texto-peq
+    font-size: 0.7em
+    margin-bottom: 0

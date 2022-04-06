@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Sistemas socioecológicos.',
     descripcionCurso:
-      '<p style="margin-bottom: 100px;">En este componente formativo, se abordan temas que le permitirán entender cómo está compuesto un sistema socioecológico, sus interacciones y la forma de analizarlo y documentarlo, para una oportuna toma de decisiones que permitan su conservación, protección y restauración.</p>',
+      'En este componente formativo, se abordan temas que le permitirán entender cómo está compuesto un sistema socioecológico, sus interacciones y la forma de analizarlo y documentarlo, para una oportuna toma de decisiones que permitan su conservación, protección y restauración.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
     fondoBannerInterno: require('@/assets/curso/fondo-banner-interno.png'),

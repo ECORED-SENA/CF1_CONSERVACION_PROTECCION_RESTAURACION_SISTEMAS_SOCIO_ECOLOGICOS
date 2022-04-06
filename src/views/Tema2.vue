@@ -57,30 +57,30 @@
     .tarjeta.fondo4.p-4.mb-5
       SlyderA
         .row.justify-content-center.align-items-center
-          .col-lg-6.col-md-8.col-sm-9.mb-4.mb-md-0.ps-5
-            h4.ms-5 Sistemas diseñados-controlados
-            p.ms-5 Fabricados por el ser humano, por lo tanto, están diseñados específicamente y se controla la totalidad de los factores que los componen. Todos los productos que son creados por el hombre entran dentro de esta categoría, desde un celular hasta una fábrica donde se manufactura el dispositivo. Es de esta forma que un vehículo se puede convertir en un sistema socioecológico cuando se hace énfasis en las emisiones que realiza y los materiales que fueron utilizados para su fabricación.
+          .col-lg-6.col-md-10.col-sm-11.mb-4.mb-md-0.ps-5.col-11
+            h4.ms-5.texto-peq Sistemas diseñados-controlados
+            p.ms-5.texto-peq Fabricados por el ser humano, por lo tanto, están diseñados específicamente y se controla la totalidad de los factores que los componen. Todos los productos que son creados por el hombre entran dentro de esta categoría, desde un celular hasta una fábrica donde se manufactura el dispositivo. Es de esta forma que un vehículo se puede convertir en un sistema socioecológico cuando se hace énfasis en las emisiones que realiza y los materiales que fueron utilizados para su fabricación.
         
-          .col-lg-6.col-md-4.col-sm-3.mb-4.mb-md-0
+          .col-lg-6.col-md-1.col-sm-1.mb-4.mb-md-0.col-1
             figure
-              img(src='@/assets/template/tema2/slider1.svg', alt='Texto que describa la imagen')
+              img.celular(src='@/assets/template/tema2/slider1.svg', alt='Texto que describa la imagen')
         div
           .row.justify-content-center.align-items-center
-            .col-lg-7.col-md-8.col-sm-9.mb-4.mb-md-0.ps-5
-              h4.ms-5 Sistemas diseñados-no controlados
-              p.ms-5 No han sido fabricados por el ser humano y, por esto, son autónomos, y la forma en que se comportan no es del todo controlable. No obstante, pueden ser afectados por las decisiones tomadas por el hombre. Un claro ejemplo de estos sistemas son los servicios que puede prestar alguna empresa en particular, ya que las acciones y decisiones que esta conlleva tienen relaciones tanto sociales como culturales y ambientales.
+            .col-lg-7.col-md-10.col-sm-11.mb-4.mb-md-0.ps-5.col-11
+              h4.ms-5.texto-peq Sistemas diseñados-no controlados
+              p.ms-5.texto-peq No han sido fabricados por el ser humano y, por esto, son autónomos, y la forma en que se comportan no es del todo controlable. No obstante, pueden ser afectados por las decisiones tomadas por el hombre. Un claro ejemplo de estos sistemas son los servicios que puede prestar alguna empresa en particular, ya que las acciones y decisiones que esta conlleva tienen relaciones tanto sociales como culturales y ambientales.
           
-            .col-lg-5.col-md-4.col-sm-3.mb-4.mb-md-0
+            .col-lg-5.col-md-1.col-sm-1.mb-4.mb-md-0.col-1
               figure
-                img(src='@/assets/template/tema2/slider2.svg', alt='Texto que describa la imagen')
+                img.celular(src='@/assets/template/tema2/slider2.svg', alt='Texto que describa la imagen')
         .row.justify-content-center.align-items-center
-          .col-lg-6.col-md-8.col-sm-9.mb-4.mb-md-0.ps-5
-            h4.ms-5 Sistemas no diseñados-no controlados
-            p.ms-5 Son aquellos sistemas que no se pueden diseñar ni fabricar, solamente se pueden obtener de manera natural o cultural, ya que estos no están regidos por decisiones que sean tomadas por el hombre y, por esto, es casi imposible tener control sobre ellas. Un ejemplo pueden ser los ríos, ya que de ellos se benefician tanto los humanos como los animales y las plantas.
+          .col-lg-6.col-md-10.col-sm-11.mb-4.mb-md-0.ps-5.col-11
+            h4.ms-5.texto-peq Sistemas no diseñados-no controlados
+            p.ms-5.texto-peq Son aquellos sistemas que no se pueden diseñar ni fabricar, solamente se pueden obtener de manera natural o cultural, ya que estos no están regidos por decisiones que sean tomadas por el hombre y, por esto, es casi imposible tener control sobre ellas. Un ejemplo pueden ser los ríos, ya que de ellos se benefician tanto los humanos como los animales y las plantas.
         
-          .col-lg-6.col-md-4.col-sm-3
+          .col-lg-6.col-md-1.col-sm-1.col-1
             figure
-              img(src='@/assets/template/tema2/slider3.svg')
+              img.celular(src='@/assets/template/tema2/slider3.svg')
 
     .row
       .col-lg-4.col-md-5.correr-izq

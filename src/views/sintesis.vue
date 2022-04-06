@@ -7,7 +7,7 @@
       .col-lg-4.col-md-5
         p.text-center.text-white.mb-0.fondo3.p-4.text-bold Síntesis
     p.my-5 El siguiente mapa detalla los elementos más relevantes estudiados durante el desarrollo del componente formativo:
-    img.mb-5(src='@/assets/curso/tema4/imagen3.png')
+    img.mb-5(src='@/assets/curso/sintesis/sintesis.svg')
 </template>
 
 <script>
