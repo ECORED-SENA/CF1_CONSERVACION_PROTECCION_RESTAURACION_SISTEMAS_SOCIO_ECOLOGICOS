@@ -48,7 +48,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/RtpjVC6FGxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
     .row
       .col-lg-4.col-md-5.correr-izq
         p.text-center.text-white.mb-0.fondo3.p-4.text-bold Factores abióticos:
@@ -156,7 +156,7 @@
     p.mb-5 Son seis (6) los ciclos biogeoquímicos más relevantes y serán detallados en el siguiente video:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Kw8g93wl5fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     separador   
 </template>
 
