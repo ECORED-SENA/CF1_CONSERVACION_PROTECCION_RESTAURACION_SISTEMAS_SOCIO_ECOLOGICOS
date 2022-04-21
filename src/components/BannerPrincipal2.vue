@@ -65,6 +65,7 @@ export default {
     align-items: center
     margin-bottom: 20px
   &__componente
+    margin-top: 10px
     margin-bottom: 20px
     h1
       line-height: 1.1em
@@ -72,6 +73,8 @@ export default {
         font-size: 2em
   &__descripcion
     margin-bottom: 20px
+  &__accion
+    margin-bottom: 70px
   &__row
     @if $banner-principal-img-x == 'derecha'
       justify-content: space-between
